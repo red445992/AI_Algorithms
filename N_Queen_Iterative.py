@@ -1,5 +1,3 @@
-
-# let us consider the 4x4 chess board
 # this is a solution of N-queen problem with out using recursion ie. iterative approach
 
 def is_safe(board,row,col):
