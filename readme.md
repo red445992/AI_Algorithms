@@ -8,4 +8,4 @@
 6. Depth first search: [DFS.py](./BFS.py)
 7. Linear Regression: [LinearRegression.py](./LinearRegression.py)
 8. Water Jug Problem: [WaterJugProblem.py](./WaterJugProblem.py)
-9. Reflex Agent Room Cleaning: [ReflexAgentRoomCleaning.py](./RelfexAgentRoomCleaning.py)
+9. Reflex Agent Room Cleaning: [ReflexAgentRoomCleaning.py](./ReflexAgentRoomCleaning.py)
