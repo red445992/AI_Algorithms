@@ -6,3 +6,6 @@
 4. Alpha-Beta GamePlaying Algorithm: [AlphaBeta.py](./AlphaBeta.py)
 5. Breadth First Search: [BFS.py](./BFS.py)
 6. Depth first search: [DFS.py](./BFS.py)
+7. Linear Regression: [LinearRegression.py](./LinearRegression.py)
+8. Water Jug Problem: [WaterJugProblem.py](./WaterJugProblem.py)
+9. Reflex Agent Room Cleaning: [ReflexAgentRoomCleaning.py](./RelfexAgentRoomCleaning.py)
